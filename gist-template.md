@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Matching a Hex Value: /^#?([a-f0-9]{6}|[a-f0-9]{3})$/
 
 Introductory paragraph (replace this with your text)
 
