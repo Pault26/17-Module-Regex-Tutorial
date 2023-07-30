@@ -143,4 +143,7 @@ No Character Escapes specified in the Regex
 
 ## **Author**
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This Tutorial was written by Paul Tuemler, an aspiring fullstack developer currently attending a bootcamp with the University of Minnesota. This Gist was a way for me to explore an important concept - regex. If you would like to see more of my progress developing my understand of Fullstack development and systems such as Javascript, Node.js, Express.js, MySQL, CSS, HTML and other web technologies, feel free to check out my Github linked below!
+
+Github: https://github.com/Pault26
+
